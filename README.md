@@ -2,7 +2,7 @@
 
 > AI-powered waste sorting, gamified for Dubai — InnovAIte 2026
 
-Dubai's residents sort less than 20% of their waste correctly. The problem isn't awareness — 
+Dubai's residents sort less than 20% of their waste correctly. The problem isn't awareness :
 it's friction. WASTEless removes that friction: point your camera at any item, and AI 
 instantly tells you exactly which Dubai bin it belongs in (GREEN = recyclables, BROWN = 
 organic, BLACK = general, RED = hazardous). Then it rewards you for it.
